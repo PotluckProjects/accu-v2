@@ -1,1 +1,34 @@
-[]
+[
+  {
+      "id": "iota-iota-usdc",
+      "name": "IOTA-USDC LP",
+      "token": "IOTA-USDC LP",
+      "tokenDescription": "IOTA-USDC LP",
+      "tokenAddress": "0x8F9a72d8F56479903ae386849e290d49389e41F9",
+      "tokenDecimals": 18,
+      "tokenDescriptionUrl": "#",
+      "earnedToken": "accuShimmerIOTA-USDC",
+      "earnedTokenAddress": "0x8217093019Ac1c407d58f1E7E44bb7C27FF471dA",
+      "earnContractAddress": "0x8217093019Ac1c407d58f1E7E44bb7C27FF471dA",
+      "pricePerFullShare": 1,
+      "tvl": 0,
+      "oracle": "lps",
+      "oracleId": "iota-iota-usdc",
+      "oraclePrice": 0,
+      "depositsPaused": false,
+      "status": "active",
+      "platformId": "magicsea",
+      "withdrawalFee": "0%",
+      "assets": ["IOTA", "USDC"],
+      "risks": [
+        "COMPLEXITY_LOW",
+        "BATTLE_TESTED",
+        "IL_LOW",
+        "AUDIT",
+        "CONTRACTS_VERIFIED"
+      ],
+      "stratType": "StratLP",
+      "addLiquidityUrl": "https://shimmersea.finance/add/0x1074010000000000000000000000000000000000/0x4794Aeafa5Efe2fC1F6f5eb745798aaF39A81D3e",
+      "buyTokenUrl": "https://shimmersea.finance/swap?outputCurrency=0x4794Aeafa5Efe2fC1F6f5eb745798aaF39A81D3e"
+    }
+]
