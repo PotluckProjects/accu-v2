@@ -26,7 +26,7 @@
     "buyTokenUrl": "https://shimmersea.finance/swap?outputCurrency=0x4794Aeafa5Efe2fC1F6f5eb745798aaF39A81D3e"
   },
   {
-    "id": "iota-eth-iota",
+    "id": "iota-iota-eth",
     "name": "ETH-IOTA LP",
     "token": "ETH-IOTA LP",
     "tokenDescription": "ETH-IOTA LP",
@@ -39,7 +39,7 @@
     "pricePerFullShare": 1,
     "tvl": 0,
     "oracle": "lps",
-    "oracleId": "iota-eth-iota",
+    "oracleId": "iota-iota-eth",
     "oraclePrice": 0,
     "depositsPaused": false,
     "status": "active",
